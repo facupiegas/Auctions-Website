@@ -1,0 +1,12 @@
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\bin\Debug\Dominio.exe
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\obj\Debug\Dominio.exe
+C:\Users\Facundo\Desktop\Obligatorio 2 P2\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\bin\Debug\Dominio.exe
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\obj\Debug\Dominio.exe
+C:\Users\Facundo\Documents\MEGAsync\Facultad\2º\Programación 2\Obligatorio P2\Dominio\obj\Debug\Dominio.pdb
